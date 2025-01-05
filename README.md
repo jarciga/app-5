@@ -2,6 +2,6 @@
 Learning Management System.
 
 ### Technologies:
-Custom PHP, PHP/MySQL, HTML, JS/JQuery.
+Custom PHP, PHP/MySQL, HTML, CSS, JS/JQuery.
 
 
